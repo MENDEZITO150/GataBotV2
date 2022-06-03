@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://wa.me/message/22AJJSYHFZOZC1' , 'https://wa.me/message/22AJJSYHFZOZC1' , 'https://wa.me/message/22AJJSYHFZOZC1' , 'https://wa.me/message/22AJJSYHFZOZC1' , 'https://wa.me/message/22AJJSYHFZOZC1'] // No tiene utilidad 
 global.channelYT = ['https://www.youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg'] // No tiene utilida
-global.owner = ['573236191090' , '573236191090'' , '573236191090''] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.owner = ['573236191090' , '573236191090'' , '573236191090'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 global.mods = ['5219992095479' , '972557048356'] // No tiene utilidad
 global.prems = ['5219996125657' , '5219991402134'] // No tiene utilidad
 
