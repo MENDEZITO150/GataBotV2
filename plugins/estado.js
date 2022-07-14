@@ -5,7 +5,7 @@ let handler = async (m, { conn, command, text, usedPrefix }) => {
 
 *ミ💖 ¡Hola! estimado/a usuario/a 💖彡*
 
-*ミ🤖 Estado de GataBot 🤖彡*
+*ミ🤖 Estado de wolffm2006  🤖彡*
 *=> ✅ Bot activo y de uso público*
 
 ╰══✨• ೋ•✨๑๑💗๑๑✨•ೋ •✨══╯
