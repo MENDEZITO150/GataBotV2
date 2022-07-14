@@ -48,9 +48,9 @@ let handler = async (m, { conn, usedPrefix }) => {
   let info = `
 ╠══〘 *INFORMACIÓN DEL BOT* 〙 ══ 🌸
 ╠
-╠➥ [😸] Creadora del Bot: 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨
-╠➥ [😼] Nombre del Bot: 𝙂𝙖𝙩𝙖𝘽𝙤𝙩
-╠➥ [#️⃣] Número: wa.me/593968585383
+╠➥ [😸] Creadora del Bot: JHONM
+╠➥ [😼] Nombre del Bot: WOLFBOT
+╠➥ [#️⃣] Número: https://wa.me/message/W6GFE5ERA6U4I1
 ╠➥ [🌐] Navegador: *${conn.browserDescription[1]}*
 ╠➥ [✅] version: *${conn.browserDescription[2]}*
 ╠➥ [⚙️] Prefijo: *${usedPrefix}*
@@ -65,9 +65,9 @@ let handler = async (m, { conn, usedPrefix }) => {
 ╠➥ [🪀] version de WhatsApp: *${conn.user.phone.wa_version}*
 ╠➥ [🤖] Bots secundarios activos: *${totaljadibot.length}*
 ╠
-╠══════〘 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 〙 ═════ 🌸
+╠══════〘 bot v3〙 ═════ 🌸
 `.trim() 
-  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🐈 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨 🐈*', 'status@broadcast')
+  conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*🐈 𝘿𝙞𝙤𝙨 🐈*', 'status@broadcast')
 }
 //handler.help = ['ping', 'speed']
 //handler.tags = ['info', 'tools']
