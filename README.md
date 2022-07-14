@@ -106,26 +106,18 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
 ### 🌟 CREADORA 
  
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+
+![GataNina-Li](https://imgur.com/imhpxIn.png?size=100)](https://imgur.com/imhpxIn) 
+
+
  
 ### 🌟 AGRADECIMIENTOS
  
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming) 
-[![ALBERTO9883](https://github.com/ALBERTO9883.png?size=100)](https://github.com/ALBERTO9883)
-[![Drz103](https://github.com/Drz103.png?size=100)](https://github.com/Drz103) 
-
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
  
 ### 🌟 CONTRIBUYENTES 
 
-[![idhamthoriqbot](https://github.com/idhamthoriqbot.png?size=100)](https://github.com/idhamthoriqbot) 
-[![Adiixyz](https://github.com/Adiixyz.png?size=100)](https://github.com/Adiixyz) 
-<a href="https://github.com/zatu22"><img src="https://github.com/zatu22.png" width="100" height="100" alt="zatu22"/></a> 
-[![arisawali2014](https://github.com/arisawali2014.png?size=100)](https://github.com/arisawali2014) 
-[![Nobuyaki](https://github.com/Nobuyaki.png?size=100)](https://github.com/Nobuyaki) 
-[![unx21](https://github.com/unx21.png?size=100)](https://github.com/unx21) 
-[![botstylee](https://github.com/botstylee.png?size=100)](https://github.com/botstylee) 
-[![ryznxx](https://github.com/ryznxx.png?size=100)](https://github.com/ryznxx) 
-<a href="https://github.com/apps/dependabot"><img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100" height="100" alt="@dependabot[bot]"/></a> 
-[![itsmeR1F4I](https://github.com/itsmeR1F4I.png?size=100)](https://github.com/itsmeR1F4I) 
-[![ZeroChanBot](https://github.com/ZeroChanBot.png?size=100)](https://github.com/ZeroChanBot)
+
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+
+![GataNina-Li](https://imgur.com/imhpxIn.png?size=100)](https://imgur.com/imhpxIn) 
