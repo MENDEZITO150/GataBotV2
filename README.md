@@ -107,7 +107,7 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
  
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 
-![GataNina-Li](https://imgur.com/imhpxIn.png?size=100)](https://imgur.com/imhpxIn) 
+![GataNina-Li](https://imgur.com/imhpxIn.png?size=100)]
 
 
  
@@ -120,4 +120,4 @@ y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos
 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 
-![GataNina-Li](https://imgur.com/imhpxIn.png?size=100)](https://imgur.com/imhpxIn) 
+![GataNina-Li](https://imgur.com/imhpxIn.png?size=100)]
