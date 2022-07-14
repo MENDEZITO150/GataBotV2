@@ -1,8 +1,8 @@
 function handler(m) {
   this.sendContact(m.chat, global.owner[0], this.getName(global.owner[0] + '@s.whatsapp.net'), m)
-  this.sendContact(m.chat, '593993684821', 'OFICIAL - GataBot', m)
-  //this.sendContact(m.chat, '14509251286', 'OFICIAL - SubGataBot', m)
-  //this.sendContact(m.chat, '14509544207', 'Gata Dios', m)
+  this.sendContact(m.chat, 'https://wa.me/message/W6GFE5ERA6U4I1', 'OFICIAL - JHONM', m)
+  //this.sendContact(m.chat, '3128800760', 'OFICIAL - Subayudante', m)
+  //this.sendContact(m.chat, 'https://wa.me/message/W6GFE5ERA6U4I1', 'Gata admin', m)
   }
 handler.help = ['contacto'] 
 handler.tags = ['info']
